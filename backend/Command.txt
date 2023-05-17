@@ -1,0 +1,1 @@
+C:\Users\sy\AppData\Local\Programs\Python\Python37/python.exe C:\Users\sy\office\HyperShoes\HypeShoes-main\backend/backend.py
